@@ -11,7 +11,7 @@ TRNAsformer is an attention-based topology that can learn both to predict the bu
 
 ## Flow of TRNAsformers:
 
-![alt text](https://github.com/HarshiniDonepudi/tRNAsformers/blob/main/Blank%20diagram.png)
+![alt text](https://github.com/HarshiniDonepudi/tRNAsformers/blob/main/Blank%20diagram-3.png)
 
 
 ## Dataset creation:
