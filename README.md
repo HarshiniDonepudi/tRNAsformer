@@ -11,13 +11,7 @@ TRNAsformer is an attention-based topology that can learn both to predict the bu
 
 ## Flow of TRNAsformers:
 
-Patches -\> Tissue Masks -\> K-Means clustering based on Histograms-\> Clusters = 49-\> Features extracted based on Densenet121 -\> 49\*1024-\>
-                      Amirs approach(based on coordinates(special clustering)
-
-Bags of instances created such that there are 7 rows and 7 columns-\> 224\*224 -\>      Random Sampling done based by taking samples from each 
-                                                              with each instance 32\*32
-
-cluster -\> .npy file generated for each instance created based on resampling -\> fed into vision Transformer and train.py file is run.
+![alt text](https://github.com/HarshiniDonepudi/tRNAsformers/blob/main/TRNAsformer_Architrcture.png)
 
 Dataset creation .csv file with image\_gene, gene\_expression,label (specifies the dataset where the image is taken,Kidney dataset that was used in the tRNAsformer paper had 3 different datasets)  is created both .npy format
 
