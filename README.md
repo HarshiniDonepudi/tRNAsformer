@@ -9,7 +9,7 @@ TRNAsformer is an attention-based topology that can learn both to predict the bu
 
 
 
-## Flow of TRNAsformers:
+## Flow of TRNAsformer:
 
 ![alt text](https://github.com/HarshiniDonepudi/tRNAsformers/blob/main/Blank%20diagram-3.png)
 
