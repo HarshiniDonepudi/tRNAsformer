@@ -96,15 +96,19 @@ Things that need to be done:
 
 1. Matching the instances to FPKM data based on UUID.
 
-Code Files:
+## Code Files:
 
 Preprocess\_numpy.ipynb: All the detailed steps for preprocessing
 
 Preprocess\_loop.py -\> code to propressing all the svs file and convert to .npy format
 
+tRNAsformer_code -\> contains the code to run the model, predict and evaluate.
+
+splits -> code to split data into seperate .csv files for train, test, valid.
 
 
-Problems;
+
+Problem:
 
 Sometimes the code is giving different features after training using densenet121 though we mentioned that we need only 49 clusters.
 
