@@ -98,9 +98,13 @@ Things that need to be done:
 
 ## Code Files:
 
+preprocessing folder:
+
 Preprocess\_numpy.ipynb: All the detailed steps for preprocessing
 
 Preprocess\_loop.py -\> code to propressing all the svs file and convert to .npy format
+
+
 
 tRNAsformer_code -\> contains the code to run the model, predict and evaluate.
 
