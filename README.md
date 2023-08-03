@@ -13,8 +13,12 @@ TRNAsformer is an attention-based topology that can learn both to predict the bu
 
 ![alt text](https://github.com/HarshiniDonepudi/tRNAsformers/blob/main/Blank%20diagram.png)
 
+
+## Dataset creation:
+
 Dataset creation .csv file with image\_gene, gene\_expression,label (specifies the dataset where the image is taken,Kidney dataset that was used in the tRNAsformer paper had 3 different datasets)  is created both .npy format
 
+## Instance Array Format
 
 The numpy array format for the instances should be in format:
 
