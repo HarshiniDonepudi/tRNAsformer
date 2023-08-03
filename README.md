@@ -100,11 +100,11 @@ Things that need to be done:
 
 preprocessing folder:
 
-Preprocess\_numpy.ipynb: All the detailed steps for preprocessing
+Preprocess\_numpy.ipynb: All the detailed steps for preprocessing.
 
-Preprocess\_loop.py -\> code to propressing all the svs file and convert to .npy format
+Preprocess\_loop.py -\> code to propressing all the svs file and convert to .npy format.
 
-
+transcriptome.py -\> code to covert raw fpkm data to logrithmic format.
 
 tRNAsformer_code -\> contains the code to run the model, predict and evaluate.
 
